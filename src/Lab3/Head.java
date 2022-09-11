@@ -32,4 +32,12 @@ public class Head {
     public void say(String what) {
         System.out.print(what + '\n');
     }
+
+    @Override
+    public String toString() {
+        return "Head{" +
+                "hairColor='" + hairColor + '\'' +
+                ", eyesColor='" + eyesColor + '\'' +
+                '}';
+    }
 }

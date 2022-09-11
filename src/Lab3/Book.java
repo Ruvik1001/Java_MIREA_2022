@@ -29,4 +29,13 @@ public class Book {
     public String getAuthor() {return author;}
     public String getName() {return name;}
     public String getDateOfWriting() {return dateOfWriting;}
+
+    @Override
+    public String toString() {
+        return "Book{" +
+                "name='" + name + '\'' +
+                ", author='" + author + '\'' +
+                ", dateOfWriting='" + dateOfWriting + '\'' +
+                '}';
+    }
 }

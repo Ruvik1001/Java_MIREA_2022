@@ -46,5 +46,14 @@ public class Human {
     public void sit() {leg.sit();}
     public void run() {leg.run();}
 
-
+    @Override
+    public String toString() {
+        return "Human{" +
+                "head=" + head.toString() +
+                ", hand=" + "only methods" +
+                ", leg=" + "only methods" +
+                ", name='" + name + '\'' +
+                ", age=" + age +
+                '}';
+    }
 }

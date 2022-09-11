@@ -6,7 +6,7 @@ public class Leg {
     }
 
     public void stand() {
-        System.out.print("*You stand*\n");
+        System.out.print("*You stand...*\n");
     }
 
     public void sit() {
