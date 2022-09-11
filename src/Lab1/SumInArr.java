@@ -1,8 +1,8 @@
 package Lab1;
 
 public class SumInArr {
-    int n;
-    int[] arr;
+    private int n;
+    private int[] arr;
 
     public SumInArr(int[] arr, int n) {
         this.n = n;

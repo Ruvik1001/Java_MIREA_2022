@@ -4,8 +4,8 @@ import java.util.random.*;
 import java.util.Arrays;
 
 public class RandomInArr {
-    int[] arr;
-    int n;
+    private int[] arr;
+    private int n;
 
     public RandomInArr(int[] arr, int n) {
         this.n = n;

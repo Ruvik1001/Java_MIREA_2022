@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4aeb555-cc25-4bcc-9128-33d98568fd47" name="Changes" comment="Lab 2">
-      <change afterPath="$PROJECT_DIR$/src/Lab1/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab1/RandomInArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab1/SumInArr.java" afterDir="false" />
+    <list default="true" id="a4aeb555-cc25-4bcc-9128-33d98568fd47" name="Changes" comment="2 Labs">
+      <change afterPath="$PROJECT_DIR$/src/Lab3/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab3/Hands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab3/Head.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab3/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab3/Legs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab3/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab2/Ball.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab2/Ball.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab2/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab2/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab2/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab2/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab1/RandomInArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab1/RandomInArr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab1/SumInArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab1/SumInArr.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +54,14 @@
       <option name="presentableId" value="Default" />
       <updated>1662860583101</updated>
     </task>
+    <task id="LOCAL-00001" summary="2 Labs">
+      <created>1662866194679</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662866194679</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -69,7 +77,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lab 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab 2" />
+    <MESSAGE value="2 Labs" />
+    <option name="LAST_COMMIT_MESSAGE" value="2 Labs" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
