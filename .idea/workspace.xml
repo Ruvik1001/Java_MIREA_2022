@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4aeb555-cc25-4bcc-9128-33d98568fd47" name="Changes" comment="in 3 lab stay only main">
+    <list default="true" id="a4aeb555-cc25-4bcc-9128-33d98568fd47" name="Changes" comment="3 lab ended">
+      <change afterPath="$PROJECT_DIR$/src/Lab4/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab4/TestAuthor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab3/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab3/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab3/Head.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab3/Head.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab3/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab3/Human.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab3/Leg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab3/Leg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab3/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662898556384</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="3 lab ended">
+      <created>1662901345316</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662901345316</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,7 +103,8 @@
     <MESSAGE value="Edit lab 1 and start lab 3" />
     <MESSAGE value="In 3 lab human added" />
     <MESSAGE value="in 3 lab stay only main" />
-    <option name="LAST_COMMIT_MESSAGE" value="in 3 lab stay only main" />
+    <MESSAGE value="3 lab ended" />
+    <option name="LAST_COMMIT_MESSAGE" value="3 lab ended" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
