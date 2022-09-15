@@ -45,9 +45,7 @@ public class Main {
         System.out.print("\n\n");
 
         //Factorial
-        Factorial f = new Factorial();
         System.out.print("Input num for find factorial: ");
-        int num = in.nextInt();
-        System.out.print("Your result: " + f.fact(num));
+        System.out.print("Your result: " + Factorial.fact(in.nextInt()));
     }
 }
