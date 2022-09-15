@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4aeb555-cc25-4bcc-9128-33d98568fd47" name="Changes" comment="4 lab 50%">
-      <change afterPath="$PROJECT_DIR$/src/Lab4/Ball.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab4/TestBall.java" afterDir="false" />
+    <list default="true" id="a4aeb555-cc25-4bcc-9128-33d98568fd47" name="Changes" comment="4 lab ended">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab4_1/Shapes/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab4_1/Shapes/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab4_1/Shapes/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab4_1/Shapes/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab4_1/Shapes/Tester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab1/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab1/Factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab4/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab4/Author/Author.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab4/Ball.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab4/Ball/Ball.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab4/TestAuthor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab4/Author/TestAuthor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab4/TestBall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab4/Ball/TestBall.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,13 +40,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -92,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663020164468</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="4 lab ended">
+      <created>1663229785816</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1663229785816</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,7 +128,8 @@
     <MESSAGE value="in 3 lab stay only main" />
     <MESSAGE value="3 lab ended" />
     <MESSAGE value="4 lab 50%" />
-    <option name="LAST_COMMIT_MESSAGE" value="4 lab 50%" />
+    <MESSAGE value="4 lab ended" />
+    <option name="LAST_COMMIT_MESSAGE" value="4 lab ended" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

@@ -1,4 +1,4 @@
-package Lab4;
+package Lab4.Ball;
 
 public class Ball {
     private double x = 0.0d;

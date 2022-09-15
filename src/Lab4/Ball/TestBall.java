@@ -1,4 +1,4 @@
-package Lab4;
+package Lab4.Ball;
 
 import java.util.Scanner;
 

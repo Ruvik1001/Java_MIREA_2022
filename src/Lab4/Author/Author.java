@@ -1,4 +1,4 @@
-package Lab4;
+package Lab4.Author;
 
 public class Author {
     private String name;

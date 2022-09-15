@@ -1,4 +1,6 @@
-package Lab4;
+package Lab4.Author;
+
+import Lab4.Author.Author;
 
 public class TestAuthor {
     public static void main(String[] args) {
