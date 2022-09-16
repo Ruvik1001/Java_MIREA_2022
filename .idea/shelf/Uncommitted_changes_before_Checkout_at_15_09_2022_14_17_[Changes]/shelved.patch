@@ -1,0 +1,47 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -1,11 +1,7 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="a4aeb555-cc25-4bcc-9128-33d98568fd47" name="Changes" comment="4.1 1/10">
+-      <change afterPath="$PROJECT_DIR$/src/Lab4_1/Matrix/Matrix.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Lab4_1/Matrix/Tester.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Lab4_1/Persons/Person.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Lab4_1/Persons/Tester.java" afterDir="false" />
++    <list default="true" id="a4aeb555-cc25-4bcc-9128-33d98568fd47" name="Changes" comment="4.1 4/10">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+@@ -111,7 +107,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1663233054918</updated>
+     </task>
+-    <option name="localTasksCounter" value="9" />
++    <task id="LOCAL-00009" summary="4.1 4/10">
++      <created>1663239083736</created>
++      <option name="number" value="00009" />
++      <option name="presentableId" value="LOCAL-00009" />
++      <option name="project" value="LOCAL" />
++      <updated>1663239083736</updated>
++    </task>
++    <option name="localTasksCounter" value="10" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -135,7 +138,8 @@
+     <MESSAGE value="4 lab 50%" />
+     <MESSAGE value="4 lab ended" />
+     <MESSAGE value="4.1 1/10" />
+-    <option name="LAST_COMMIT_MESSAGE" value="4.1 1/10" />
++    <MESSAGE value="4.1 4/10" />
++    <option name="LAST_COMMIT_MESSAGE" value="4.1 4/10" />
+   </component>
+   <component name="XSLT-Support.FileAssociations.UIState">
+     <expand />
