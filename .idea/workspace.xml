@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4aeb555-cc25-4bcc-9128-33d98568fd47" name="Changes" comment="4.1 5/10">
-      <change afterPath="$PROJECT_DIR$/src/Lab4_1/Workers/Employer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab4_1/Workers/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab4_1/Workers/Manager.java" afterDir="false" />
+    <list default="true" id="a4aeb555-cc25-4bcc-9128-33d98568fd47" name="Changes" comment="4.1 6/10">
+      <change afterPath="$PROJECT_DIR$/src/Lab4_1/learners/Listener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab4_1/learners/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab4_1/learners/Pupil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab4_1/learners/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -127,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663368549954</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="4.1 6/10">
+      <created>1663373432332</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1663373432332</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,7 +160,8 @@
     <MESSAGE value="4 lab ended" />
     <MESSAGE value="4.1 1/10" />
     <MESSAGE value="4.1 5/10" />
-    <option name="LAST_COMMIT_MESSAGE" value="4.1 5/10" />
+    <MESSAGE value="4.1 6/10" />
+    <option name="LAST_COMMIT_MESSAGE" value="4.1 6/10" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
