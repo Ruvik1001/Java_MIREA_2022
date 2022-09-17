@@ -1,4 +1,4 @@
-package Lab3;
+package Lab3.Man;
 
 import java.util.Random;
 import java.util.random.RandomGenerator;

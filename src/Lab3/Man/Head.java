@@ -1,4 +1,4 @@
-package Lab3;
+package Lab3.Man;
 
 public class Head {
     private String hairColor = "Black";

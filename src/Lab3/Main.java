@@ -1,5 +1,7 @@
 package Lab3;
 
+import Lab3.Man.Human;
+
 import java.util.Scanner;
 
 public class Main {

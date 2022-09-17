@@ -1,4 +1,4 @@
-package Lab3;
+package Lab3.Man;
 
 public class Human {
     private Head head = new Head();
