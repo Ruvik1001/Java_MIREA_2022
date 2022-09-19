@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4aeb555-cc25-4bcc-9128-33d98568fd47" name="Changes" comment="4.1 7/10" />
+    <list default="true" id="a4aeb555-cc25-4bcc-9128-33d98568fd47" name="Changes" comment="4.1 7/10">
+      <change afterPath="$PROJECT_DIR$/src/Lab4_1/ShapeUML/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab4_1/ShapeUML/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab4_1/ShapeUML/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab4_1/ShapeUML/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab4_1/ShapeUML/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +57,11 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Lab4_1.ShapeUML" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -136,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663374501015</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Refactor Lab3">
+      <created>1663374899587</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1663374899587</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -163,7 +182,8 @@
     <MESSAGE value="4.1 5/10" />
     <MESSAGE value="4.1 6/10" />
     <MESSAGE value="4.1 7/10" />
-    <option name="LAST_COMMIT_MESSAGE" value="4.1 7/10" />
+    <MESSAGE value="Refactor Lab3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactor Lab3" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
