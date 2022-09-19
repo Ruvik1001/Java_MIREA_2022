@@ -15,10 +15,10 @@ public class Main {
         };
 
         Scanner in = new Scanner(System.in);
-        //int day = in.nextInt();
+        int day = in.nextInt();
 
         for (Employer man : workers)
-            man.work(10);
+            man.work(day);
 
         System.out.print(
                 "Workers data:\n" +

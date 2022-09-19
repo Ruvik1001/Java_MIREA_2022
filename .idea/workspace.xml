@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4aeb555-cc25-4bcc-9128-33d98568fd47" name="Changes" comment="4.1 7/10">
-      <change afterPath="$PROJECT_DIR$/src/Lab4_1/ShapeUML/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab4_1/ShapeUML/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab4_1/ShapeUML/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab4_1/ShapeUML/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab4_1/ShapeUML/Square.java" afterDir="false" />
+    <list default="true" id="a4aeb555-cc25-4bcc-9128-33d98568fd47" name="Changes" comment="4.1 8/10">
+      <change afterPath="$PROJECT_DIR$/src/Lab4_1/Furniture/Chair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab4_1/Furniture/Furniture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab4_1/Furniture/FurnitureShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab4_1/Furniture/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab4_1/Furniture/Table.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab4_1/Workers/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab4_1/Workers/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663374899587</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="4.1 8/10">
+      <created>1663616968012</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1663616968012</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -183,7 +191,8 @@
     <MESSAGE value="4.1 6/10" />
     <MESSAGE value="4.1 7/10" />
     <MESSAGE value="Refactor Lab3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactor Lab3" />
+    <MESSAGE value="4.1 8/10" />
+    <option name="LAST_COMMIT_MESSAGE" value="4.1 8/10" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
