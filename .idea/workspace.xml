@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4aeb555-cc25-4bcc-9128-33d98568fd47" name="Changes" comment="5">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Match/Frame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab5/Match/Frame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Match/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab5/Match/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="a4aeb555-cc25-4bcc-9128-33d98568fd47" name="Changes" comment="5 - 2/5" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,12 +43,13 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/java/Java_MIREA_2022",
+    "last_opened_file_path": "D:/java/Java_MIREA_2022/src/Lab5/Match",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java\Java_MIREA_2022\src\Lab5\Match" />
       <recent name="D:\java\Java_MIREA_2022\src\Match" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -173,7 +170,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663758278485</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="5 - 1/5">
+      <created>1664313505715</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1664313505715</updated>
+    </task>
+    <task id="LOCAL-00017" summary="5 - 2/5">
+      <created>1664313668059</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1664313668059</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -216,7 +227,9 @@
     <MESSAGE value="4.1 8/10" />
     <MESSAGE value="4.1 9/10" />
     <MESSAGE value="5" />
-    <option name="LAST_COMMIT_MESSAGE" value="5" />
+    <MESSAGE value="5 - 1/5" />
+    <MESSAGE value="5 - 2/5" />
+    <option name="LAST_COMMIT_MESSAGE" value="5 - 2/5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

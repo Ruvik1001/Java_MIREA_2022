@@ -9,7 +9,7 @@ public class Square extends Shape {
 		int x = (int)(Math.random()*1234 % 15);
 		int y = (int)(Math.random()*1234 % 15);
 		int alfa = (int)(Math.random()*1234 % 150);
-		this.position = new int[] {(int)(Math.random()*1234 % 15), (int)(Math.random()*1234 % 150)};
+		this.position = new int[] {(int)(Math.random()*1234 % 15 + 5), (int)(Math.random()*1234 % 150 + 5)};
 		this.vertexesX = new int[] {position[0] + x, position[0] + x + a, position[0] + x + a, position[0] + x};
 		this.vertexesY = new int[] {position[1] + y, position[1] + y, position[1] + y + a, position[1] + y + a};
 				

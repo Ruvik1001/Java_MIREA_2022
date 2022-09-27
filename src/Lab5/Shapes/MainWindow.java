@@ -14,7 +14,6 @@ public class MainWindow extends JFrame {
 		getContentPane().setLayout(null);
 		this.setResizable(false);
 		this.setLocationRelativeTo(null);
-		getContentPane().setLayout(null);
 		
 		for (int i = 0; i < 20; i++) {
 			painters.add(new Painter());
