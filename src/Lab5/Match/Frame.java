@@ -1,4 +1,4 @@
-package Match;
+package Lab5.Match;
 
 import javax.swing.*;
 import java.awt.*;
