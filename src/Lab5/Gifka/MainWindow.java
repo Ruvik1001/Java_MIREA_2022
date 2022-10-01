@@ -7,7 +7,7 @@ import java.util.concurrent.TimeUnit;
 public class MainWindow extends JFrame {
     Painter painter;
 
-    public MainWindow() throws HeadlessException {
+        public MainWindow() throws HeadlessException {
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         //setLocationRelativeTo(null);
         setResizable(false);
@@ -37,7 +37,6 @@ public class MainWindow extends JFrame {
 
     public void update(int ms) throws InterruptedException {
         TimeUnit.MILLISECONDS.sleep(ms);
-        painter.updateUI();
         painter.repaint();
     }
 }

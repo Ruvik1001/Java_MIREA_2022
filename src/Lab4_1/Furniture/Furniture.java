@@ -54,4 +54,5 @@ public abstract class Furniture {
                 ", cost=" + cost +
                 '}';
     }
+
 }
