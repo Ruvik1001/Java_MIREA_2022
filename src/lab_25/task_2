@@ -1,0 +1,13 @@
+Để đánh địa chỉ, Ipv4 sử dụng 32bit và chia ra làm 4 octet (mỗi octet có 8 bit = 1 byte). Dấu chấm được sử dụng để ngăn các octet với nhau.
+Để hiểu địa chỉ Ipv4 là gì có thể lấy ví dụ như sau: Giả sử ta có 1 dải số như sau: 172.16.254.1. Dải số này có thể được dùng để đặt tên cho 1 địa chỉ Ipv4 nào đó.
+Có thể thấy địa chỉ Ipv4 có tổng cộng 4 số và mỗi số phải nằm trong giới hạn từ 0-255.
+
+   172  .   16   .   254  .   1
+10101100.00010000.11111110.0000001
+  8bit     8bit     8bit     8bit
+               32bit
+
+Примеры:
+99.198.122.146 — Да
+0xFF.255.0377.0x12 — Да
+256.256.256.256 — Нет
