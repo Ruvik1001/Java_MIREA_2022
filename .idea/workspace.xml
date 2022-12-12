@@ -1,18 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4aeb555-cc25-4bcc-9128-33d98568fd47" name="Changes" comment="5 - all">
-      <change afterPath="$PROJECT_DIR$/src/Lab6/Movable/Movable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab6/Movable/MovableCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab6/Movable/MovablePoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab6/Movable/MovableRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab6/Nameable/Airplane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab6/Nameable/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab6/Nameable/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab6/Nameable/Nameable.java" afterDir="false" />
+    <list default="true" id="a4aeb555-cc25-4bcc-9128-33d98568fd47" name="Changes" comment="6 - 1/3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab4_1/Furniture/Furniture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab4_1/Furniture/Furniture.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab5/Gifka/MainWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab5/Gifka/MainWindow.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,9 +18,42 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="ForShow" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="f050bbc5bc23c5acaa0235c925287cea232330d9" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -47,19 +70,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/java/Java_MIREA_2022/src/Lab5/OpenImage&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/java/skatano/JavaFirstMirea-main",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\java\Java_MIREA_2022\src\Lab5\OpenImage" />
@@ -71,6 +94,29 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Lab4_1.ShapeUML" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab5.Gifka.Main" />
+      <module name="Java_MIREA_2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab5.Gifka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -228,7 +274,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664361622336</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="6 - 1/3">
+      <created>1664630550614</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1664630550614</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -276,7 +329,8 @@
     <MESSAGE value="5 - 2/5 refactor" />
     <MESSAGE value="5 - 3/4 refactor" />
     <MESSAGE value="5 - all" />
-    <option name="LAST_COMMIT_MESSAGE" value="5 - all" />
+    <MESSAGE value="6 - 1/3" />
+    <option name="LAST_COMMIT_MESSAGE" value="6 - 1/3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
