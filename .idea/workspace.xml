@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="a4aeb555-cc25-4bcc-9128-33d98568fd47" name="Changes" comment="ForShow">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab_9/task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_9/task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab_10/SortingStudentsByGPA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_10/SortingStudentsByGPA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab_11/task_3/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_11/task_3/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab_13/task_2/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_13/task_2/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab_13/task_3/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_13/task_3/Address.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -311,7 +314,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671059435888</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="ForShow">
+      <created>1671060365752</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1671060365752</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

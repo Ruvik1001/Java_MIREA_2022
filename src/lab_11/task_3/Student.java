@@ -27,7 +27,7 @@ public class Student {
 
     public Student(int year, int month, int day)
     {
-        this("Mai", "Tuan", "Game",2,"IKBO-33-21",5,year,month,day);
+        this("Sofi", "F1", "Game",2,"IKBO-06-21",5,year,month,day);
     }
 
 

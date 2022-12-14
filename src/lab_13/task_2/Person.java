@@ -10,7 +10,7 @@ public class Person {
         this.lastName = lastName;
     }
     public Person(String firstName){
-        this(firstName,"Van", "Tuan");
+        this(firstName,"Sofi", "F1");
     }
 
     public String getName() {
@@ -18,7 +18,7 @@ public class Person {
     }
 
     public static void main(String[] args) {
-        Person person = new Person("Mai");
+        Person person = new Person("Sofi");
         System.out.println(person.getName());
     }
 }

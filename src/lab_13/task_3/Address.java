@@ -48,7 +48,7 @@ public class Address {
     }
 
     public static void main(String[] args) {
-        String format = "Russia; Russia; Moskva; Vehnadskova; D86; KPP2; 1203";
+        String format = "Russia; Russia; Moskva; RTU_MIREA; 78; 4; 06-21";
         Address address = new Address(format);
         System.out.println(address);
     }
