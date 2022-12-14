@@ -109,9 +109,9 @@ public class task {
 
     public static void main(String[] args) {
         Student[] students = new Student[3];
-        students[0] = new Student("Thang", 18, 106, 4);
-        students[1] = new Student("Bang", 14, 103, 2);
-        students[2] = new Student("Bao", 26, 102, 5);
+        students[0] = new Student("Ruvik", 18, 106, 4);
+        students[1] = new Student("Sofi", 14, 103, 2);
+        students[2] = new Student("Ger", 26, 102, 5);
         System.out.println("Array before insertion sorting:");
         for (int i = 0; i < 3; i++)
             System.out.println(students[i]);
@@ -121,9 +121,9 @@ public class task {
             System.out.println(students[i]);
         Student[] students_1 = new Student[3];
         Comparator<Student> comparator = new SortingStudentsByGPA();
-        students_1[0] = new Student("Tuan", 22, 105, 1);
-        students_1[1] = new Student("Vinh", 20, 103, 7);
-        students_1[2] = new Student("Hoang", 26, 102, 3);
+        students_1[0] = new Student("Ruvik", 22, 105, 1);
+        students_1[1] = new Student("Sofi", 20, 103, 7);
+        students_1[2] = new Student("Ger", 26, 102, 3);
         System.out.println("\nArray before quick sorting:");
         for (int i = 0; i < 3; i++)
             System.out.println(students_1[i]);
