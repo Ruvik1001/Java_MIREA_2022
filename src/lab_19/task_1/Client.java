@@ -4,7 +4,7 @@ public class Client {
     private String name;
     private int inn;
     {
-        this.name = "Tuan";
+        this.name = "Ruvik";
         this.inn = 123;
     }
 
