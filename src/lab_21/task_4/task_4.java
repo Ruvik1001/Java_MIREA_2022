@@ -13,7 +13,7 @@ public class task_4 {
         ArrayList<String> list = new ArrayList(Arrays.asList(fArray));
 
         for (int i =0; i<list.size();i++) {
-            if(i<5) System.out.println(list.get(i));
+            System.out.println(list.get(i));
         }
     }
 
