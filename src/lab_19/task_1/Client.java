@@ -5,7 +5,7 @@ public class Client {
     private int inn;
     {
         this.name = "Ruvik";
-        this.inn = 123;
+        this.inn = 123456789;
     }
 
     public String getName() {

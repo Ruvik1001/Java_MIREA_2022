@@ -9,7 +9,7 @@ public class MVCPatternDemo {
         control.updateView();
     }
     public static Student retrieveStudentFromDatabase() {
-        Student student = new Student("Tuan", "abc");
+        Student student = new Student("Sofi", "abc");
         return student;
     }
 

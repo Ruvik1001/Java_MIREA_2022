@@ -3,7 +3,7 @@ package lab_15.task_2;
 import javax.swing.*;
 
 public class JCB extends JFrame {
-    String ct[] = { "Australia", "China", "England", "Russia", "Viet Nam" };
+    String ct[] = { "Australia", "China", "England", "Russia" };
     JComboBox cb = new JComboBox(ct);
 
     JCB(){

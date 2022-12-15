@@ -51,7 +51,6 @@ public class LogIn extends JFrame implements ActionListener {
         if (e.getActionCommand().equals("Save")) {
             String userName = txtUser.getText();
             String passWord = txtPassword.getText();
-            //do something
         } else {
             this.dispose();
         }
