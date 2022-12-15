@@ -8,16 +8,16 @@ import java.util.Map;
 public class Name {
     public static Map<String, String> createMap(){
         Map<String, String> name = new HashMap<>();
-        name.put("Bui", "Van Thanh");
-        name.put("Nguyen", "The Vinh");
-        name.put("Nghiem", "Vu Vinh");
-        name.put("Mai", "Khanh Huyen");
-        name.put("Mai", "Van Nam");
-        name.put("Le", "Van Tuan");
-        name.put("Mai", "Van Phong");
-        name.put("Phan", "Thi Mai");
-        name.put("Dinh", "Van Tuan");
-        name.put("Mai", "Van Tuan");
+        name.put("Ruvik", "F1");
+        name.put("Ger", "F3");
+        name.put("Ger", "F3");
+        name.put("Ruvik", "F1");
+        name.put("Sofi", "F2");
+        name.put("Sofi", "F2");
+        name.put("Ruvik", "F1");
+        name.put("Ger", "F3");
+        name.put("Sofi", "F2");
+        name.put("Ruvik", "F1");
         return name;
     }
 

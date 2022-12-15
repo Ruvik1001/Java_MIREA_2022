@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4aeb555-cc25-4bcc-9128-33d98568fd47" name="Changes" comment="ForShow">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForTest/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ForTest/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab_15/task_2/JCB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_15/task_2/JCB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab_16/task_3/LogIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_16/task_3/LogIn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab_17/task_1/MVCPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_17/task_1/MVCPatternDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab_19/task_1/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_19/task_1/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab_25/task_2" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -329,7 +324,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671060936784</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="ForShow">
+      <created>1671062904140</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1671062904140</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
